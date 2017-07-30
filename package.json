@@ -1,0 +1,23 @@
+{
+  "name": "dsa-js",
+  "version": "0.0.0",
+  "description": "Solutions of DataStructures and Algorithms with Javascript ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "jasmine": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saikatmitra91/dsa-js.git"
+  },
+  "author": "saikatmitra91@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saikatmitra91/dsa-js/issues"
+  },
+  "homepage": "https://github.com/saikatmitra91/dsa-js#readme",
+  "devDependencies": {
+    "jasmine": "^2.7.0"
+  }
+}
